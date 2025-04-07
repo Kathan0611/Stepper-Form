@@ -1,50 +1,25 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>Goal Creation Multi-Step Form</h1>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a React-based application that enables users to create, edit, and view goals through a multi-step form. 
+The goal creation form includes various sections, such as goal details, steps, challenges, and additional information. 
+This document provides the steps to set up and use the project, as well as its main features and functionality.
 
-## Expanding the ESLint configuration
+Features<br><br>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+1)Multi-step Form: A step-by-step flow to guide users through goal creation.<br>>
+2)Validation: All fields are mandatory, with validation and error messages displayed for each input.<br>
+3)Persistent Form Data: Data persists when navigating back and forth between steps.<br>
+4)Dynamic Steps: Users can add multiple steps dynamically.<br>
+5)Goal List: Once the form is completed, all created goals are displayed in a list.<br>
+6)Goal Editing: Users can edit any goal from the displayed list.<br>
+7)Live Server Integration: Uses JSON Live Server to store and fetch goal data.<br>
 
-- Configure the top-level `parserOptions` property like this:
+MyGoal
+![image](https://github.com/user-attachments/assets/d88aacc9-141c-4cc8-a592-b8901ed7e1b4)
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+![image](https://github.com/user-attachments/assets/4d3cf24e-262d-42ae-9696-213090665023)
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
