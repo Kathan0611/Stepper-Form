@@ -1,0 +1,76 @@
+.create-goal-form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width:100%;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .form-label {
+    flex: 0 0 150px; 
+    margin-bottom: 5px;
+    font-weight: bold;
+    
+  }
+  
+  .form-input,
+  .form-group textarea,
+  .form-group select { 
+    flex: 1;
+  }
+  
+  .radio-group {
+    display: flex;
+    align-items: center;
+  }
+  
+  .radio-group label {
+    margin-right: 15px;
+  }
+  
+  .quarter-selection {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .quarter-selection label {
+    margin-right: 10px;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: flex-end;
+    width: 1,048px;
+    padding-left:48px;
+    gap:10px;
+    padding-top:48px;
+   
+  }
+  
+  .button-group  button{
+    margin-left: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    background-color: #3498db;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .button-group button:first-child {
+    background-color: #ccc;
+  }
+
+  .error {
+    color: red;
+    font-size: 12px;
+  }

@@ -1,0 +1,669 @@
+{
+  "goals": [
+    {
+      "id": "f42d",
+      "Assignment": {
+        "goalOwner": "Direct Report",
+        "performanceGoal": "Virah Ghohil",
+        "selectedQuarter": "Q3",
+        "dueDate": "2025-02-14T16:26",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "Virahan",
+        "description": "anrrnnananananananwnw"
+      },
+      "Necessity": {
+        "heartfeltReason": "kanssnwwmmwmd",
+        "idealOutcome": "mqsdmedmdemdemdemdmddm"
+      },
+      "steps": [
+        {
+          "stepTitle": "Kathana",
+          "dueDate": "2025-01-31T18:34"
+        },
+        {
+          "stepTitle": "Pappda",
+          "dueDate": "2025-01-31T18:34"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "ksnenaananam",
+        "PossibleSolutions": "anssnmwmmwmmwsdmwm"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "nqndmwdmwmswsamammamamamam",
+      "AdditionalComment": "msmdmwdwmwmwsmwsm"
+    },
+    {
+      "id": "939r",
+      "Assignment": {
+        "goalOwner": "Direct Report",
+        "performanceGoal": "Kathan Ketanbhai Adalaja",
+        "selectedQuarter": "Q1",
+        "dueDate": "2025-03-29T19:45",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "Herobrother",
+        "description": "hahhahaaaaaahaaaaaaaahaaaaaaa"
+      },
+      "Necessity": {
+        "heartfeltReason": "heartfelt that ",
+        "idealOutcome": "show things show"
+      },
+      "steps": [
+        {
+          "stepTitle": "kahanan",
+          "dueDate": "2025-01-31T17:39"
+        },
+        {
+          "stepTitle": "money required",
+          "dueDate": "2025-01-31T20:37"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "bhaia bajaiai",
+        "PossibleSolutions": "bhaiabhai"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "kannanananan",
+      "AdditionalComment": "manaannannan"
+    },
+    {
+      "id": "f62s",
+      "Assignment": {
+        "goalOwner": "Myself",
+        "performanceGoal": "Kathan Adalaaja",
+        "selectedQuarter": "Q1",
+        "dueDate": "2025-01-31T19:46",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "karanananan",
+        "description": "mananfnaanannfafnnssnsnsn"
+      },
+      "Necessity": {
+        "heartfeltReason": "kanrnananananan",
+        "idealOutcome": "mannnnnanana"
+      },
+      "steps": [
+        {
+          "stepTitle": "kathana",
+          "dueDate": "2025-01-31T19:47"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "NNNFNANAANANGTN",
+        "PossibleSolutions": "MAANNTNNCNANNA"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "AARFNANAAN",
+      "AdditionalComment": "ANANAFFADNAN"
+    },
+    {
+      "id": "5f8d",
+      "Assignment": {
+        "goalOwner": "Myself",
+        "performanceGoal": "kahanaaa a a a  a",
+        "selectedQuarter": "Q2",
+        "dueDate": "2025-02-01T20:11",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "kkatnaaaan",
+        "description": "nannannananananananznz"
+      },
+      "Necessity": {
+        "heartfeltReason": "akmvcDMC",
+        "idealOutcome": "M aavcvmc"
+      },
+      "steps": [
+        {
+          "stepTitle": "Vmcv vc",
+          "dueDate": "2025-01-31T19:10"
+        },
+        {
+          "stepTitle": "zmbb bv ",
+          "dueDate": "2025-02-02T20:12"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "faidcvncnc cn ",
+        "PossibleSolutions": "bz c c "
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "n anaadnvvfnvv",
+      "AdditionalComment": "ncv nbvfdcnvndcv n"
+    },
+    {
+      "id": "f42d",
+      "Assignment": {
+        "goalOwner": "Direct Report",
+        "performanceGoal": "Virah Ghohil",
+        "selectedQuarter": "Q3",
+        "dueDate": "2025-02-01T13:22",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "Virahan",
+        "description": "anrrnnananananananwnw"
+      },
+      "Necessity": {
+        "heartfeltReason": "kanssnwwmmwmd",
+        "idealOutcome": "mqsdmedmdemdemdemdmddm"
+      },
+      "steps": [
+        {
+          "stepTitle": "Kathana",
+          "dueDate": "2025-01-31T18:34"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "ksnenaananam",
+        "PossibleSolutions": "anssnmwmmwmmwsdmwm"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "nqndmwdmwmswsamammamamamam",
+      "AdditionalComment": "msmdmwdwmwmwsmwsm"
+    },
+    {
+      "id": "f42r",
+      "Assignment": {
+        "goalOwner": "Direct Report",
+        "performanceGoal": "Virah Ghohil",
+        "selectedQuarter": "Q3",
+        "dueDate": "2025-02-01T13:22",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "Viraj",
+        "description": "anrrnnananananananwnw"
+      },
+      "Necessity": {
+        "heartfeltReason": "kanssnwwmmwmd",
+        "idealOutcome": "mqsdmedmdemdemdemdmddm"
+      },
+      "steps": [
+        {
+          "stepTitle": "Kathana",
+          "dueDate": "2025-01-31T18:34"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "ksnenaananam",
+        "PossibleSolutions": "anssnmwmmwmmwsdmwm"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "nqndmwdmwmswsamammamamamam",
+      "AdditionalComment": "msmdmwdwmwmwsmwsm"
+    },
+    {
+      "id": "939e",
+      "Assignment": {
+        "goalOwner": "Direct Report",
+        "performanceGoal": "Kathan Ketanbhai Adalaja",
+        "selectedQuarter": "Q1",
+        "dueDate": "2025-03-29T19:45",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "Mummy ",
+        "description": "hahhahaaaaaahaaaaaaaahaaaaaaa"
+      },
+      "Necessity": {
+        "heartfeltReason": "heartfelt that ",
+        "idealOutcome": "show things show"
+      },
+      "steps": [
+        {
+          "stepTitle": "kahanan",
+          "dueDate": "2025-01-31T17:39"
+        },
+        {
+          "stepTitle": "money required",
+          "dueDate": "2025-01-31T20:37"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "bhaia bajaiai",
+        "PossibleSolutions": "bhaiabhai"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "kannanananan",
+      "AdditionalComment": "manaannannan"
+    },
+    {
+      "id": "939drt",
+      "Assignment": {
+        "goalOwner": "Direct Report",
+        "performanceGoal": "Kathan Ketanbhai Adalaja",
+        "selectedQuarter": "Q1",
+        "dueDate": "2025-03-29T19:45",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "Pappadsmnfghjdnfjhgkjv",
+        "description": "hahhahaaaaaahaaaaaaaahaaaaaaa"
+      },
+      "Necessity": {
+        "heartfeltReason": "heartfelt that ",
+        "idealOutcome": "show things show"
+      },
+      "steps": [
+        {
+          "stepTitle": "kahanan",
+          "dueDate": "2025-01-31T17:39"
+        },
+        {
+          "stepTitle": "money required",
+          "dueDate": "2025-01-31T20:37"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "bhaia bajaiai",
+        "PossibleSolutions": "bhaiabhai"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "kannanananan",
+      "AdditionalComment": "manaannannan"
+    },
+    {
+      "id": "939f",
+      "Assignment": {
+        "goalOwner": "Direct Report",
+        "performanceGoal": "BHaianaansdnswdnn",
+        "selectedQuarter": "Q1",
+        "dueDate": "2025-03-29T19:45",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "Mummygftzxggzhsfvgzb",
+        "description": "hahhahaaaaaahaaaaaaaahaaaaaaa"
+      },
+      "Necessity": {
+        "heartfeltReason": "heartfelt that ",
+        "idealOutcome": "show things show"
+      },
+      "steps": [
+        {
+          "stepTitle": "kahanan",
+          "dueDate": "2025-01-31T17:39"
+        },
+        {
+          "stepTitle": "money required",
+          "dueDate": "2025-01-31T20:37"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "bhaia bajaiai",
+        "PossibleSolutions": "bhaiabhai"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "kannanananan",
+      "AdditionalComment": "manaannannan"
+    },
+    {
+      "id": "939d",
+      "Assignment": {
+        "goalOwner": "Direct Report",
+        "performanceGoal": "Kathan Ketanbhai Adalaja",
+        "selectedQuarter": "Q1",
+        "dueDate": "2025-03-29T19:45",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "Pappaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq",
+        "description": "hahhahaaaaaahaaaaaaaahaaaaaaa"
+      },
+      "Necessity": {
+        "heartfeltReason": "heartfelt that ",
+        "idealOutcome": "show things show"
+      },
+      "steps": [
+        {
+          "stepTitle": "kahanan",
+          "dueDate": "2025-01-31T17:39"
+        },
+        {
+          "stepTitle": "money required",
+          "dueDate": "2025-01-31T20:37"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "bhaia bajaiai",
+        "PossibleSolutions": "bhaiabhai"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "kannanananan",
+      "AdditionalComment": "manaannannan"
+    },
+    {
+      "id": "d47a",
+      "Assignment": {
+        "goalOwner": "Myself",
+        "performanceGoal": "dnffnNAMAJANSASA",
+        "selectedQuarter": "Q1",
+        "dueDate": "2025-02-23T21:08",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "GIANT",
+        "description": "NWQNNASASNDDanannnnn"
+      },
+      "Necessity": {
+        "heartfeltReason": "nANANSASNANSXNC",
+        "idealOutcome": "NSAASSQNASS"
+      },
+      "steps": [
+        {
+          "stepTitle": "ANSJANSSNAS",
+          "dueDate": "2025-01-31T21:08"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "NZXNNAZNAZZ",
+        "PossibleSolutions": "Nasansax"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "njASANSS",
+      "AdditionalComment": "NNASNANAN"
+    },
+    {
+      "id": "3d9b",
+      "Assignment": {
+        "goalOwner": "Myself",
+        "performanceGoal": "mmnsz azmazazz",
+        "selectedQuarter": "Q2",
+        "dueDate": "2025-02-22T16:59",
+        "isCollaborative": true,
+        "collaborators": [
+          "Alice"
+        ]
+      },
+      "GoalDetails": {
+        "title": "mzmmmammaamam",
+        "description": "mzmmsmsmmamamamamammammamm"
+      },
+      "Necessity": {
+        "heartfeltReason": "mamammammaam",
+        "idealOutcome": " amamamamamamamamma"
+      },
+      "steps": [
+        {
+          "stepTitle": "Kathana",
+          "dueDate": "2025-02-20T20:56"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "mmmaamm",
+        "PossibleSolutions": "mamamamamama"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "mzmmamamam",
+      "AdditionalComment": "mzmmaam"
+    },
+    {
+      "id": "fb82",
+      "Assignment": {
+        "goalOwner": "Myself",
+        "performanceGoal": "mxcmxmc aaaa",
+        "selectedQuarter": "Q1",
+        "dueDate": "2025-02-27T22:32",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "KMAAMAMAM",
+        "description": "NMAMAMAMAANNAMAXVVVZZZ"
+      },
+      "Necessity": {
+        "heartfeltReason": "K",
+        "idealOutcome": "KAA"
+      },
+      "steps": [
+        {
+          "stepTitle": "KAA",
+          "dueDate": "2025-02-01T22:36"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "MSKK",
+        "PossibleSolutions": "MWMSMMMDMD"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "MSMSMS",
+      "AdditionalComment": "MWMMM"
+    },
+    {
+      "id": "105a",
+      "Assignment": {
+        "goalOwner": "Myself",
+        "performanceGoal": "mammazxsmfmamamammama",
+        "selectedQuarter": "Q3",
+        "dueDate": "2025-02-23T21:23",
+        "isCollaborative": true,
+        "collaborators": [
+          "Bob"
+        ]
+      },
+      "GoalDetails": {
+        "title": "kaaakkamam",
+        "description": "amamamammammamamammam"
+      },
+      "Necessity": {
+        "heartfeltReason": "mammamamamaam",
+        "idealOutcome": "mammaammamaam"
+      },
+      "steps": [
+        {
+          "stepTitle": "Kathan Adalaja",
+          "dueDate": "2025-02-14T21:13"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "Kathan Adkalaalaj",
+        "PossibleSolutions": "jajajaananaan"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "kathananaann",
+      "AdditionalComment": "kakanaananan"
+    },
+    {
+      "id": "71f0",
+      "Assignment": {
+        "goalOwner": "Myself",
+        "performanceGoal": "mamamamamamaam",
+        "selectedQuarter": "Q1",
+        "dueDate": "2025-02-28T23:21",
+        "isCollaborative": true,
+        "collaborators": [
+          "Bob"
+        ]
+      },
+      "GoalDetails": {
+        "title": "Kataaan",
+        "description": "jajajajajajananananana"
+      },
+      "Necessity": {
+        "heartfeltReason": "Kathanan",
+        "idealOutcome": "kantnamaanan"
+      },
+      "Challenges": {
+        "PossibleChallenges": "Latjamaam",
+        "PossibleSolutions": "kantnaanaan"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "kantnaannaamam",
+      "AdditionalComment": "katannaanaam",
+      "steps": [
+        {
+          "stepTitle": "Kathan",
+          "dueDate": "2025-02-08T21:28"
+        },
+        {
+          "stepTitle": "Kathanb",
+          "dueDate": "2025-02-09T23:28"
+        }
+      ]
+    },
+    {
+      "id": "5b8c",
+      "Assignment": {
+        "goalOwner": "Myself",
+        "performanceGoal": "Katnaanaaannanannananaaanan",
+        "selectedQuarter": "Q1",
+        "dueDate": "2025-02-14T23:25",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "kananannanaan",
+        "description": "nananannnaanannnannannanaann"
+      },
+      "Necessity": {
+        "heartfeltReason": "jajajajajajajjajanannananan",
+        "idealOutcome": "jajananannana"
+      },
+      "steps": [
+        {
+          "stepTitle": "kathanana",
+          "dueDate": "2025-02-15T23:26"
+        },
+        {
+          "stepTitle": "finaamamama",
+          "dueDate": "2025-02-11T23:26"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "kagmamammaamamam",
+        "PossibleSolutions": "maamamamamamm"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "maamamamamam",
+      "AdditionalComment": "anannanananannaannana"
+    },
+    {
+      "id": "c360",
+      "Assignment": {
+        "goalOwner": "Myself",
+        "performanceGoal": "kamamaansSMAMAAMAMM",
+        "selectedQuarter": "Q2",
+        "dueDate": "2025-02-21T02:07",
+        "isCollaborative": false,
+        "collaborators": [
+          "employee"
+        ]
+      },
+      "GoalDetails": {
+        "title": "MNaNNANAN",
+        "description": "NNNANNANNNNNNNNNNNNNNNNNNN"
+      },
+      "Necessity": {
+        "heartfeltReason": "ANANANANNAANN",
+        "idealOutcome": "NNNNANANANAN"
+      },
+      "steps": [
+        {
+          "stepTitle": "KathanP",
+          "dueDate": "2025-02-13T00:05"
+        }
+      ],
+      "Challenges": {
+        "PossibleChallenges": "LLLLLLLLLLLLLLLLLLL",
+        "PossibleSolutions": "LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL"
+      },
+      "Additional": {
+        "SupportAndResourece": "",
+        "AdditionalComment": ""
+      },
+      "SupportAndResourece": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNN",
+      "AdditionalComment": "NNNNNNNNNNNNNNNNNNNNNNNN"
+    }
+  ]
+}

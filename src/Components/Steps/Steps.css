@@ -1,0 +1,169 @@
+ .goal-creation-container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+   box-shadow: 0 0 5px rgba(192, 217, 244, 0.5);
+}
+
+.steps-container {
+  margin-bottom: 20px;
+}
+
+.step-item {
+  border: 1px solid #eee;
+  border-radius: 3px;
+  padding: 10px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.step-title {
+  font-weight: bold;
+}
+
+.step-due-date {
+  color: #888;
+  font-size: 0.9em;
+}
+
+.edit-button {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  padding-left:10px;
+}
+
+
+.add-step-form  {
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  gap:10px;
+  position:relative;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.form-label {
+  width: 100px;
+  margin-right: 10px;
+}
+
+.error-message {
+  color: red;
+  font-size: 0.8em;
+}
+
+.add-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.add-another-title-wrapper {
+  display: flex;
+}
+.add-another-step {
+  border-top: 1px dotted black;
+  width: calc(100%, -40px);
+}
+
+.add-step-section {
+  padding-left: 15px;
+  width: calc(100% - 70px);
+}
+
+.add-step-label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.add-another-label {
+  position: relative;
+  width: 100%;
+}
+.add-another-label::after {
+  position: absolute;
+  content: "";
+  border: 1px dashed #d9d9d9;
+  width: calc(100% - 149px);
+  top: 50%;
+  left: 130px;
+}
+
+
+.buttons{
+  position:absolute;
+  top: 95px; 
+  left: 0;
+}
+
+.delete-button {
+   background-color: #3498db;
+   border-radius: 3px;
+   border:none;
+   cursor: pointer;
+   color: #fff;
+}
+
+.updated-button {
+   display: flex;
+   justify-content: flex-end;
+   gap:10px;
+  
+   
+}
+
+.form-input2 {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 468px;
+} 
+
+.steps-buttons {
+   background-color:#3498db;
+   color: #fff;
+   border-radius: 3px;
+   font-size: 15px;
+   cursor: pointer;
+}
+
+.button-group2 {
+  display: flex;
+  justify-content: flex-end;
+  width: 1,048px;
+  padding-left:48px;
+  gap:5px;
+  padding-top:48px;
+  
+}
+
+.button-group2  button{
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  background-color: #3498db;
+  color: #fff;
+  cursor: pointer;
+}
+
+.button-group2 button:first-child {
+  background-color: #ccc;
+}
+
+
+@media (max-width: 768px) {
+  .button-group2 {
+    padding-left: 330px;
+  }
+}

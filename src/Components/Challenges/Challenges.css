@@ -1,0 +1,80 @@
+  /* Form Styles */
+  .form {
+    width: 100%;
+    background: #ffffff;
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Heading Styles */
+  .form-heading {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #333;
+  }
+  
+  /* Textarea Styles */
+  .form-textarea2 {
+    width: 97%;
+    height: 100px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 14px;
+    resize: none;
+    margin-bottom: 12px;
+  }
+  
+  .form-textarea:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 4px rgba(0, 123, 255, 0.5);
+  }
+  
+  /* Error Styles */
+  .form-error {
+    border-color: #e63946;
+  }
+  
+  .error-message {
+    color: #e63946;
+    font-size: 12px;
+    margin-bottom: 12px;
+  }
+  
+  /* Button Container Styles */
+  .form-buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Button Styles */
+  .button {
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .button-primary {
+    background-color: #e63946;
+    color: #ffffff;
+  }
+  
+  .button-primary:hover {
+    background-color: #d62839;
+  }
+  
+  .button-secondary {
+    background-color: #cccccc;
+    color: #333;
+  }
+  
+  .button-secondary:hover {
+    background-color: #bbbbbb;
+}
+  
