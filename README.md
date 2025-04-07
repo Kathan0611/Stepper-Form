@@ -17,9 +17,9 @@ Features<br><br>
 7)Live Server Integration: Uses JSON Live Server to store and fetch goal data.<br>
 
 MyGoal
-![image](https://github.com/user-attachments/assets/d88aacc9-141c-4cc8-a592-b8901ed7e1b4)
+![image](https://github.com/user-attachments/assets/c8cd263b-e23f-4410-b1a8-cd118cf499f6)
 
+![image](https://github.com/user-attachments/assets/32baf283-e64f-4cd0-bef0-8b5c3bbbd0e1)
 
-![image](https://github.com/user-attachments/assets/4d3cf24e-262d-42ae-9696-213090665023)
 
 
